@@ -1,0 +1,12 @@
+.vscode
+.venv
+.ruff_cache
+__pycache__
+**/*.pyc
+**/.DS_Store
+**/*.log
+__MACOSX
+*.parquet
+data
+*.csv
+*.xlsx
