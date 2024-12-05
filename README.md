@@ -1,7 +1,7 @@
 
 # Superstore Dashboard - Streamlit App
 
-This repository contains a Streamlit application designed to visualize and analyze Superstore data. The dashboard provides interactive charts, filters, and insights into sales, profits, and other key metrics.
+This repository contains a Streamlit application designed to visualize and analyze Superstore data. It uses the MVC design pattern (Model View Controller). The dashboard provides interactive charts, filters, and insights into sales, profits, and other key metrics.
 
 ## Features
 - Interactive visualizations for sales, profit, and categories.
